@@ -1,2 +1,2 @@
 # common
-Common Repository code 
+Common Repository for C++ classes
